@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hey, I'm Mike!
 
-<!--
-**MikeEXPR/MikeEXPR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I write code, fix problems, and get things done with **Python** and **JavaScript**.  
+Check out my work and feel free to connect with me!  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- **Python**: Automation, Web Scraping, Data Analysis  
+- **JavaScript**: Frontend and Backend Development  
+- **Tools & Libraries**: BeautifulSoup, Requests, Flask, React, Node.js  
+
+---
+
+## 🚀 Projects
+Here are some cool things I've worked on:  
+1. **Hacker News Web Scraper**  
+   - A Python script that scrapes the latest headlines from Hacker News.
