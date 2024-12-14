@@ -8,7 +8,9 @@ Check out my work and feel free to connect with me!
 ## 🛠 Skills
 - **Python**: Automation, Web Scraping, Data Analysis  
 - **JavaScript**: Frontend and Backend Development  
-- **Tools & Libraries**: BeautifulSoup, Requests, Flask, React, Node.js  
+- **Tools & Libraries**: BeautifulSoup, Requests, Flask, React, Node.js
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 
 ---
 
