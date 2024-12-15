@@ -1,4 +1,4 @@
-Hey, I'm Mike
+# Hey, I'm Mike
 
 I write code, fix problems, and get things done with **Python** and **JavaScript**.  
 Check out my work
